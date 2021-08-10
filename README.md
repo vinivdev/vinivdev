@@ -1,12 +1,12 @@
-### Olá eu sou o Vinicius 👋
+### Olá 👋
 
-- 🔭 Em busca de um emprego na área de TI
+
 - 🌱 Estudando C# & SQL
 
 <div>
-  <a href="https://github.com/vinivpest">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vinivpest&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivpest&layout=compact&langs_count=7&theme=calm"/> 
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinivpest&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivpest&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
