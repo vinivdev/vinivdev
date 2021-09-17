@@ -1,7 +1,7 @@
 ### Olá eu sou o Vinicius 👋
 
 - 🔭 Vivendo e aprendendo
-- 🌱 Estudando C# & SQL
+- 🌱 Estudando C#, Java, HTML, CSS, JavaScript & SQL
 
 <div>
   <a href="https://github.com/rafaballerini">
