@@ -1,6 +1,6 @@
 ### Olá eu sou o Vinicius 👋
 
-- 🔭 Em busca de um emprego na área de TI
+- 🔭 Vivendo e aprendendo
 - 🌱 Estudando C# & SQL
 
 <div>
