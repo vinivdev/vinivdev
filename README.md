@@ -17,13 +17,4 @@
 </div>
   
 <div>
-## 💻 Technology
-# C# 
-My "native" programming language
 </div>
-  <div>
-    ## 🗣 Languages
-
-# Portuguese  🇵🇹🇧🇷 / Native speaker
-# English 🇬🇧🇺🇸
-  </div>
