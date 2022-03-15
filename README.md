@@ -1,7 +1,7 @@
 ### Olá eu sou o Vinicius 👋
 
 - 🔭 Vivendo e aprendendo
-- 🌱 Estudando .NET, Swagger, HTML & CSS, JavaScript & SQL
+- 🌱 Estudando ASP.NET, HTML & CSS, JavaScript & SQL
 
 <div>
   <a href="https://github.com/vinivdev">
