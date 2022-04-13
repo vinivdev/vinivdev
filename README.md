@@ -1,9 +1,9 @@
-### Olá eu sou o Vinicius 👋
+## **Olá** 👋
 
-- 🔭 Vivendo e aprendendo
-- 🌱 Estudando ASP.NET, HTML & CSS, JavaScript & SQL
+> 🔭 Progresso é a soma dos problemas solucionados
+> 🌱 Estudando .NET C#, HTML & CSS, JavaScript & SQL
 
-<div>
+<div align="middle">
   <a href="https://github.com/vinivdev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinivdev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivdev&layout=compact&langs_count=7&theme=vue-dark"/>
