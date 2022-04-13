@@ -1,7 +1,7 @@
 ## **Olá** 👋
 
-> 🔭 Progresso é a soma dos problemas solucionados
-> 🌱 Estudando .NET C#, HTML & CSS, JavaScript & SQL
+- 🔭 Progresso é a soma dos problemas solucionados
+- 🌱 Estudando .NET C#, HTML & CSS, JavaScript & SQL
 
 <div align="middle">
   <a href="https://github.com/vinivdev">
