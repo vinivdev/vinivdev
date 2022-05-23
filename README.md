@@ -39,14 +39,17 @@
 
    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=smsnxcfcob1x0ndh80z621iyx&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-  ---
 </div>
 
- ## Contact:
+
 <div>
+
+---
+
+ ## **Contact**
   
-  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-de-paula-silva-2614b5189/)
+  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() &emsp;
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-de-paula-silva-2614b5189/) &emsp;
   [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/472209985393131522)
 </div>
 <br>
