@@ -1,27 +1,59 @@
-## **Olá eu sou o Vinicius** 👋
+# **Hi everyone, I'm Vinicius** 👋
 
-- 🔭 Progresso é a soma dos problemas solucionados
-- 🌱 Estudando .NET, C#, HTML & CSS, JavaScript & SQL
+- 🔭 Currently looking for new opportunities
+ - 💭 Progress is the sum of problems solved
+ - 🌱 I'm currently learning .NET, EF, & Design Patterns.
 
-<div align="left">
-  <a href="https://github.com/vinivdev">
-  <img height="123em" src="https://github-readme-stats.vercel.app/api?username=vinivdev&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="121em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivdev&layout=compact&langs_count=7&theme=apprentice"/>
-</div><br> 
+---
 
-## Tecnologias que uso
-<div style="display: inline_block">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-</div><br>
+<div style="display: inline_block" align="center">
 
- ### Contato:
-<div>
-    <a href="https://www.linkedin.com/in/vinicius-de-paula-silva-2614b5189/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:vinivwk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+## **Languages**
+
+  ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
+  ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
+  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;
+
 </div>
+
+<div style="display: inline_block" align="center">
+  
+## **Technologies**
+
+  ![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) &nbsp;
+  ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
+  ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) &nbsp;
+  ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+  ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) &nbsp;
+  ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
+  ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) &nbsp;
+  ![](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) &nbsp;
+
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinivdev&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+### **Now Playing 🎵**
+
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=smsnxcfcob1x0ndh80z621iyx&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+  ---
+</div>
+
+ ## Contact:
+<div>
+  
+  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-de-paula-silva-2614b5189/)
+  [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/472209985393131522)
+</div>
+<br>
+    
+
+
+
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
