@@ -36,9 +36,8 @@
 ---
 
 ### **Now Playing 🎵**
-
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=smsnxcfcob1x0ndh80z621iyx&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=smsnxcfcob1x0ndh80z621iyx&cover_image=true&theme=novatorem&bar_color=ffcc00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=smsnxcfcob1x0ndh80z621iyx&redirect=true)
   ---
 </div>
 
