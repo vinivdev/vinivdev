@@ -1,4 +1,4 @@
-# **Hi everyone, I'm Vinicius** 👋
+# **Hi there, I'm Vinicius** 👋
 
 - 🔭 Currently looking for new opportunities
  - 💭 Progress is the sum of problems solved
@@ -21,7 +21,6 @@
 ## **Technologies**
 
   ![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) &nbsp;
-  ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
   ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) &nbsp;
   ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) &nbsp;
   ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) &nbsp;
