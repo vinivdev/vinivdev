@@ -4,17 +4,6 @@
  - 💭 Progress is the sum of problems solved
  - 🌱 I'm currently learning .NET, EF, & Design Patterns.
 
----
-
-<div style="display: inline_block" align="center">
-
-## **Languages**
-
-  ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
-  ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
-  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;
-
-</div>
 
 <div style="display: inline_block" align="center">
   
